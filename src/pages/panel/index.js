@@ -221,6 +221,10 @@ export default class PanelBasic extends Component {
             name: '卡片'
           },
           {
+            id: 'Expand',
+            name: '折叠'
+          },
+          {
             id: 'Float-Layout',
             name: '浮动弹层'
           },

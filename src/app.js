@@ -42,6 +42,7 @@ class App extends Component {
       'pages/layout/grid/index',
       'pages/layout/float-layout/index',
       'pages/layout/card/index',
+      'pages/layout/expand/index',
       'pages/layout/list/index',
       'pages/layout/accordion/index',
       'pages/form/checkbox/index',
